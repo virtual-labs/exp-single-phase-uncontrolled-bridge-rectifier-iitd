@@ -57,3 +57,67 @@ The n<sup>th</sup> harmonic ripple current has to pass through the filter capaci
     ..(1)
 </div>
 <br>
+
+<div style="float: left; width:100%;"><br>
+Assume the following to satisfy this relation
+<br><br>
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th6.png" height="75px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(2)
+
+</div>
+
+<div style="float: left; width:100%;"><br>
+From the above expression the value of capacitor filter can be calculated:
+</div>
+
+<div style="float: left; width:50%;"><br>
+  <img src="images/th7.png" height="70px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(3)
+
+</div>
+
+
+<div style="float: left; width:100%;"><br>
+The Fourier series of the output voltage with RL load is:
+<br>
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th8.png" height="78px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(4)
+
+</div>
+
+<div style="float: left; width:100%;"><br>
+The DC component is:
+</div>
+
+<div style="float: left; width:50%;"><br>
+  <img src="images/th9.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(5)
+
+</div>
+<br>
+
+<div style="float: left; width:100%;"><br>
+and the AC component is:
+</div>
+
+<div style="float: left; width:50%;"><br>
+  <img src="images/th10.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(6)
+
+</div>
