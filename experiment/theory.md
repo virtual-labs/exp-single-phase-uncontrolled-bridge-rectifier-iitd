@@ -51,7 +51,7 @@ The n<sup>th</sup> harmonic ripple current has to pass through the filter capaci
 
 <br>
 <div style="float: left; width:50%;">
-  <img src="images/th5.png" height="65px">
+  <img src="images/th5.png" height="60px">
 </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(1)
@@ -64,7 +64,7 @@ Assume the following to satisfy this relation
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th6.png" height="75px">
+  <img src="images/th6.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(2)
@@ -76,7 +76,7 @@ From the above expression the value of capacitor filter can be calculated:
 </div>
 
 <div style="float: left; width:50%;"><br>
-  <img src="images/th7.png" height="70px">
+  <img src="images/th7.png" height="62px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(3)
@@ -90,7 +90,7 @@ The Fourier series of the output voltage with RL load is:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th8.png" height="78px">
+  <img src="images/th8.png" height="55px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(4)
@@ -102,7 +102,7 @@ The DC component is:
 </div>
 
 <div style="float: left; width:50%;"><br>
-  <img src="images/th9.png" height="65px">
+  <img src="images/th9.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(5)
@@ -115,7 +115,7 @@ and the AC component is:
 </div>
 
 <div style="float: left; width:50%;"><br>
-  <img src="images/th10.png" height="65px">
+  <img src="images/th10.png" height="50px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(6)
@@ -127,7 +127,7 @@ The above equation is simplified by considering only the dominant harmonics, sec
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th11.png" height="65px">
+  <img src="images/th11.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(7)
@@ -140,7 +140,7 @@ Therefore
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th12.png" height="65px">
+  <img src="images/th12.png" height="56px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(8)
@@ -153,7 +153,7 @@ The load voltage expression is:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th13.png" height="65px">
+  <img src="images/th13.png" height="55px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(9)
@@ -167,7 +167,7 @@ Let RF = 0.1<br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th14.png" height="65px">
+  <img src="images/th14.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(10)
@@ -176,7 +176,7 @@ Let RF = 0.1<br>
 
 
 <div style="float: left; width:100%;"><br>
-Use the value of C_f and compute L_f using eq.(3) and eq.(10). The LC-filter based single phase diode bridge rectifier with RL load is ready to perform the experiment and its steady-state waveforms are shown in Fig. 3.<br><br>
+Use the value of C<sub>f</sub> and compute L<sub>f</sub> using eq.(3) and eq.(10). The LC-filter based single phase diode bridge rectifier with RL load is ready to perform the experiment and its steady-state waveforms are shown in Fig. 3.<br><br>
 The output current Idc can easily be computed as:
 </div>
 
@@ -194,7 +194,7 @@ The output power (P) can easily be computed as:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th16.png" height="65px">
+  <img src="images/th16.png" height="50px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(12)
