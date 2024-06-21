@@ -2,12 +2,13 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+
+      "question": "1. What is the primary function of diode bridge rectifier in a power supply circuit with a LC filter and RL load?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To regulate the DC output voltage",
+        "b": "To filter out high-frequency noise",
+        "c": "To convert AC voltage to DC voltage",
+        "d": "To control the output voltage"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -18,13 +19,15 @@
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+            
     {
-      "question": "This is a Sample Question 2?",
+
+      "question": "2. In LC-filter circuit, Capacitor is primarily responsible for:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Filtering out high-frequency noise",
+        "b": "Filtering out low-frequency noise",
+        "c": "Smoothing the output voltage",
+        "d": "Regulating the output current"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +35,64 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+            
+    {
+
+      "question": "3. What is the role of inductor in LC-filter?",
+      "answers": {
+        "a": "It smoothens the output voltage",
+        "b": "It filters out high-frequency noise",
+        "c": "It regulates the output current",
+        "d": "It increases the output voltage"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+            
+    {
+
+      "question": "4. What effect does increasing the value of the inductor in a LC-filter have on the output voltage ripple?",
+      "answers": {
+        "a": "Increases ripple",
+        "b": "Decreases ripple",
+        "c": "No effect on ripple",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+            
+    {
+
+      "question": "5. The output voltage is a combination of :",
+      "answers": {
+        "a": "Only DC voltage component",
+        "b": "Only AC voltage components",
+        "c": "DC component and little harmonics specifically 2nd harmonic component",
+        "d": "Only harmonic components present"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
