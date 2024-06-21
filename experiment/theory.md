@@ -121,3 +121,82 @@ and the AC component is:
     ..(6)
 
 </div>
+
+<div style="float: left; width:100%;">
+The above equation is simplified by considering only the dominant harmonics, second harmonic is the dominant one and its rms value is 
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th11.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(7)
+
+</div>
+
+
+<div style="float: left; width:100%;"><br>
+Therefore
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th12.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(8)
+
+</div>
+
+
+<div style="float: left; width:100%;"><br>
+The load voltage expression is:
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th13.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(9)
+
+</div>
+
+
+<div style="float: left; width:100%;"><br>
+Assume the ripple factor and obtain the value of filter inductor<br><br>
+Let RF = 0.1<br>
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th14.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(10)
+
+</div>
+
+
+<div style="float: left; width:100%;"><br>
+Use the value of C_f and compute L_f using eq.(3) and eq.(10). The LC-filter based single phase diode bridge rectifier with RL load is ready to perform the experiment and its steady-state waveforms are shown in Fig. 3.<br><br>
+The output current Idc can easily be computed as:
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th15.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(11)
+
+</div>
+
+
+<div style="float: left; width:100%;"><br>
+The output power (P) can easily be computed as:
+</div>
+
+<div style="float: left; width:50%;">
+  <img src="images/th16.png" height="65px">
+      </div>
+<div style="float: right; width:50%; text-align:center;">
+    ..(12)
+
+</div>
