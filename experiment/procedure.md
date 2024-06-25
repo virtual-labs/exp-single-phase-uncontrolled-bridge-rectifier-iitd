@@ -8,7 +8,7 @@ II.	Similarly, connect the load with the given terminals of diode bridge network
 
 #### b) Principle of operation of the bridge rectifier: Diode bridge circuit operates in two modes as given below:<br>
 
-I.	In positive half cycle, the diodes ‘D<sub>1</sub>’ and ‘D<sub>2</sub>’ are conducting while the diodes: D<sub>3</sub>, D<sub>4</sub> are in blocking state.<br>
+I.	In positive half cycle, the diodes ‘D<sub>1</sub>’ and ‘D<sub>2</sub>’ are conducting while the diodes: ‘D<sub>3</sub>’, ‘D<sub>4</sub>’ are in blocking state.<br>
 II.	Similarly, for negative half cycle ‘D<sub>3</sub>’ and ‘D<sub>4</sub>’ are conducting while the diodes ‘D<sub>1</sub>’ and ‘D<sub>2</sub>’ are in blocking state.<br>
 
 #### c)	Performance analysis of the circuit:<br>
