@@ -18,9 +18,24 @@
     <link rel="stylesheet" href="./css/chart.css" />
     <link rel="stylesheet" href="./css/component_styling.css" />
     <link rel="stylesheet" href="./css/sliders.css" />
+
+    <link href="./toolkit/fix_styling.css" rel="stylesheet" />
+    <link href="./toolkit/toolkit.css" rel="stylesheet" />
+    <link href="./toolkit/main_spinner.css" rel="stylesheet" />
+    <script src="./toolkit/toolkit.js"></script>
   </head>
   <img src="" alt="" />
   <body>
+    <div class="main-spinner">
+      <div class="loader">
+        <span></span>
+      </div>
+      <p class="text">
+        For Better User Experience,
+        <span>reset zoom to 100% <br />(by pressing 'Ctrl + 0')</span> and
+        <span>refresh the page (by pressing 'Ctrl + R')</span>
+      </p>
+    </div>
     <!-- <body  onmousemove="getCursor(event)"> -->
     <!-- Mouse Position -->
     <!-- <div id="demo" style="position: absolute">
@@ -114,6 +129,15 @@
                 </span>
               </a>
             </li>
+            <li>
+              <a>
+              <span class="step">
+              <span>
+                                  Experimental Result.
+                                </span>
+              </span>
+              </a>
+              </li>
             <!-- <li>
               <a>
                 <span class="step">
@@ -190,7 +214,7 @@
               <div class="progress-step" data-title=""></div>
               <div class="progress-step" data-title=""></div>
               <div class="progress-step" data-title=""></div>
-              <!-- <div class="progress-step" data-title=""></div> -->
+              <div class="progress-step" data-title=""></div>
               <!-- <div class="progress-step" data-title=""></div> -->
               <!-- <div class="progress-step" data-title=""></div>
               <div class="progress-step" data-title=""></div> -->
@@ -1041,7 +1065,7 @@
               </div>
                           
               <!-- * Input box format for in anime questions -->
-              <form onsubmit="return false" class="temp-input"
+              <form onsubmit="return false" class="temp-input">
                 <span class="text1"></span
                 ><input class="input" type="text" name="" id="ipnum" /><span
                   class="text2"
@@ -1605,7 +1629,70 @@
         class="main-window-imgs"
         src="./src/images/EE15/part_2_circuit_right_load.png"
     />
+    <img
+    class="main-window-imgs btn-img"
+    src="./src/images/EE15/btn_hint.png"
+    />
+    <img
+      class="main-window-imgs btn-img"
+      src="./src/images/EE15/hint_box.png"
+    />
 
+    <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_1_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_1_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_1_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_1_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_menu_1_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_menu_1_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_menu_1_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_menu_1_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_menu_1_5.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/hw_result_menu_1_6.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/new/mask.png"
+    />
+    
 <!-- ! EE15 images end here -->
 
 
@@ -1906,6 +1993,21 @@
             </section>
           </main>
         </div>
+      </div>
+      <div class="toolkit">
+        <div class="btn-group">
+          <!-- <button class="btn mute">
+                <img class="btn-mute btn-logo"
+                    src="./src/images/template_imgs/speech_off_btn.png"
+                    title="Click To Mute"
+                />
+            </button> -->
+          <button class="btn btn-download-pdf" title="Download">
+            <span class="title">Download</span>
+            <img alt="" class="btn-logo" src="./toolkit/btn_download.png" />
+          </button>
+        </div>
+        <img class="blinkArrowYellow" src="./toolkit/setBlinkArrowYellow.png" />
       </div>
     </div>
 

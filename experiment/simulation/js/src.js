@@ -99,8 +99,20 @@ const src = {
       arrow_selected_l:this.allImgsDom[index++],
       arrow_selected_lf:this.allImgsDom[index++],
       part_2_circuit_right_load:this.allImgsDom[index++],
+      btn_hint:this.allImgsDom[index++],
+      hint_box:this.allImgsDom[index++],
 
-     
+      hw_result_1_1:this.allImgsDom[index++],
+      hw_result_1_2:this.allImgsDom[index++],
+      hw_result_1_3:this.allImgsDom[index++],
+      hw_result_1_4:this.allImgsDom[index++],
+      hw_result_menu_1_1:this.allImgsDom[index++],
+      hw_result_menu_1_2:this.allImgsDom[index++],
+      hw_result_menu_1_3:this.allImgsDom[index++],
+      hw_result_menu_1_4:this.allImgsDom[index++],
+      hw_result_menu_1_5:this.allImgsDom[index++],
+      hw_result_menu_1_6:this.allImgsDom[index++],
+      mask:this.allImgsDom[index++],
       //! EE15 images end here
 
 
