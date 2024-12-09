@@ -11,12 +11,12 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: The difference between diode bridge rectifier and half-wave rectifier can easily be identified from the circuit diagrams. "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
             
@@ -30,12 +30,12 @@
         "d": "Diode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3: An inductor opposes sudden changes in current due to its inherent property.",
+        "d": "Explanation 4"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
             
@@ -49,12 +49,12 @@
         "d": "IGBT"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation 1",
+        "b": "Explanation 2: A line frequency diode is most suitable for forming an uncontrolled rectifier.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
             
@@ -68,12 +68,12 @@
         "d": "To increase the input voltage"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3: The primary function of an LC-filter in a diode bridge rectifier circuit is to smoothen the output leading to reduced ripple content. ",
+        "d": "Explanation 4"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
             
@@ -87,12 +87,12 @@
         "d": "Less distortion in input current only with RL-load "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation 1",
+        "b": "Explanation 2: When a diode rectifier is connected to an RL-load, the inductor helps reduce current distortion by opposing rapid changes in current, leading to smoother input and output currents compared to R-load.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
