@@ -40,11 +40,42 @@ During the positive half-cycle of the AC input voltage, diodes â€˜D<sub>1</sub>â
 <br><br>
 
 <center>
-  <img src="images/th4.png">
+  <img src="images/th3b.png">
   
-Fig. 3. Steady-state waveform of diode bridge rectifier with LC filter.
+Fig. 3. Circuit diagram of diode bridge rectifier with LC filter.
 
 </center>
+<br>
+
+<table border="0" align="center" style="width:100%; border:none;">
+  <tr>
+<td style="width:50%">
+<center>
+  
+<img src="images/th4.png">
+<br><br>
+(a) Waveforms without filter.
+<br><br>
+</center>
+</td>
+<td style="width:50%">
+  
+<center>
+
+<img src="images/th4b.png">
+<br><br>
+(b) Waveforms with LC-filter.
+<br><br>
+</center> 
+    </td>
+  </tr>
+  <tr colspan="2">
+    <td>
+      Fig.4. Steady-state waveform of diode bridge rectifier.
+    </td>
+  </tr>
+</table>
+<br>
 <br>
 
 The n<sup>th</sup> harmonic ripple current has to pass through the filter capacitor for which the load impedance has to be greater than the filter capacitor impedance, i.e.
