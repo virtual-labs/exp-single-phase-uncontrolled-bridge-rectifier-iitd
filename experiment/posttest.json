@@ -5,9 +5,9 @@
 
       "question": "1. What is the primary function of diode bridge rectifier in a power supply circuit with a LC filter and RL load?",
       "answers": {
-        "a": "To regulate the DC output voltage",
+        "a": "To convert AC voltage to DC voltage",
         "b": "To filter out high-frequency noise",
-        "c": "To convert AC voltage to DC voltage",
+        "c": "To regulate the DC output voltage",
         "d": "To control the output voltage"
       },
       "explanations": {
