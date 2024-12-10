@@ -69,9 +69,9 @@ Fig. 3. Circuit diagram of diode bridge rectifier with LC filter.
 </center> 
     </td>
   </tr>
-  <tr colspan="2">
-    <td>
-      Fig.4. Steady-state waveform of diode bridge rectifier.
+  <tr>
+    <td colspan="2" >
+      <center>Fig.4. Steady-state waveform of diode bridge rectifier.</center>
     </td>
   </tr>
 </table>
