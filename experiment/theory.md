@@ -52,7 +52,7 @@ Fig. 3. Circuit diagram of diode bridge rectifier with LC filter.
 <td style="width:50%">
 <center>
   
-<img src="images/th4.png">
+<img src="images/th4a.png">
 <br><br>
 (a) Waveforms without filter.
 <br><br>
