@@ -2,37 +2,97 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+
+      "question": "1. How does the diode bridge rectifier differ from the half-wave bridge rectifier?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diode bridge uses four diodes and half-wave rectifier uses two diodes",
+        "b": "Diode bridge rectifier has higher efficiency",
+        "c": "Diode bridge rectifier produces a smoother output",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: The difference between diode bridge rectifier and half-wave rectifier can easily be identified from the circuit diagrams. "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
+            
     {
-      "question": "This is a Sample Question 2?",
+
+      "question": "2. Which component in an RL-load helps to oppose sudden change in current?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Resistor",
+        "b": "Capacitor",
+        "c": "Inductor",
+        "d": "Diode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3: An inductor opposes sudden changes in current due to its inherent property.",
+        "d": "Explanation 4"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+            
+    {
+
+      "question": "3. Which of the following devices is more suitable for forming an uncontrolled rectifier?",
+      "answers": {
+        "a": "Zenor diode",
+        "b": "Line frequency diode",
+        "c": "Schottky diode",
+        "d": "IGBT"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2: A line frequency diode is most suitable for forming an uncontrolled rectifier.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+            
+    {
+
+      "question": "4. What is the primary function of a LC- low-pass filter in a diode bridge rectifier circuit?",
+      "answers": {
+        "a": "To convert AC voltage to DC voltage",
+        "b": "To regulate the output current",
+        "c": "To reduce voltage ripple",
+        "d": "To increase the input voltage"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3: The primary function of an LC-filter in a diode bridge rectifier circuit is to smoothen the output leading to reduced ripple content. ",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+            
+    {
+
+      "question": "5. What change do we observe when diode rectifier is connected with RL-load instead of R-load?",
+      "answers": {
+        "a": "No change",
+        "b": "Change in input AC voltage",
+        "c": "The input and output current has less distortion with RL-load",
+        "d": "Less distortion in input current only with RL-load "
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2: When a diode rectifier is connected to an RL-load, the inductor helps reduce current distortion by opposing rapid changes in current, leading to smoother input and output currents compared to R-load.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

@@ -1,0 +1,368 @@
+
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/arrow_selected_cf.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/arrow_selected_rf.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/arrow_select_l.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/arrow_select_r.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/arrow_select_rf.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/btn_delete.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/btn_record.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/btn_reset.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/btn_start_experiment.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/circle.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/formula_cf.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/formula_rf.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_1_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_1_correct_text.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_1_text_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_1_text_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_1_text_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_2_box.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_2_circuit_left.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_2_circuit_right.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_2_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_2_text.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_a.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_full_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_graph_a.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_graph_v1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_graph_v2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_graph_v3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_text.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_v_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_v_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_3_v_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_4_btn_dc_output.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_4_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_4_performance_tab.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_text_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_text_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_text_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_text_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_value_boxes.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/part_5_versus_tab.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/table_load_l.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/table_load_r.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/table_ripple_factor.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/tab_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/tab_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/tab_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/tab_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/value_box_cf.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE15/value_box_lf.png"
+    />
+    
+
+arrow_selected_cf:this.allImgsDom[index++],
+arrow_selected_rf:this.allImgsDom[index++],
+arrow_select_l:this.allImgsDom[index++],
+arrow_select_r:this.allImgsDom[index++],
+arrow_select_rf:this.allImgsDom[index++],
+btn_delete:this.allImgsDom[index++],
+btn_record:this.allImgsDom[index++],
+btn_reset:this.allImgsDom[index++],
+btn_start_experiment:this.allImgsDom[index++],
+circle:this.allImgsDom[index++],
+formula_cf:this.allImgsDom[index++],
+formula_rf:this.allImgsDom[index++],
+part_1_circuit:this.allImgsDom[index++],
+part_1_correct_text:this.allImgsDom[index++],
+part_1_text_1:this.allImgsDom[index++],
+part_1_text_2:this.allImgsDom[index++],
+part_1_text_3:this.allImgsDom[index++],
+part_2_box:this.allImgsDom[index++],
+part_2_circuit_left:this.allImgsDom[index++],
+part_2_circuit_right:this.allImgsDom[index++],
+part_2_graph:this.allImgsDom[index++],
+part_2_text:this.allImgsDom[index++],
+part_3_a:this.allImgsDom[index++],
+part_3_circuit:this.allImgsDom[index++],
+part_3_full_graph:this.allImgsDom[index++],
+part_3_graph_a:this.allImgsDom[index++],
+part_3_graph_v1:this.allImgsDom[index++],
+part_3_graph_v2:this.allImgsDom[index++],
+part_3_graph_v3:this.allImgsDom[index++],
+part_3_text:this.allImgsDom[index++],
+part_3_v_1:this.allImgsDom[index++],
+part_3_v_2:this.allImgsDom[index++],
+part_3_v_3:this.allImgsDom[index++],
+part_4_btn_dc_output:this.allImgsDom[index++],
+part_4_circuit:this.allImgsDom[index++],
+part_4_performance_tab:this.allImgsDom[index++],
+part_5_circuit:this.allImgsDom[index++],
+part_5_text_1:this.allImgsDom[index++],
+part_5_text_2:this.allImgsDom[index++],
+part_5_text_3:this.allImgsDom[index++],
+part_5_text_4:this.allImgsDom[index++],
+part_5_value_boxes:this.allImgsDom[index++],
+part_5_versus_tab:this.allImgsDom[index++],
+table_load_l:this.allImgsDom[index++],
+table_load_r:this.allImgsDom[index++],
+table_ripple_factor:this.allImgsDom[index++],
+tab_1:this.allImgsDom[index++],
+tab_2:this.allImgsDom[index++],
+tab_3:this.allImgsDom[index++],
+tab_4:this.allImgsDom[index++],
+value_box_cf:this.allImgsDom[index++],
+value_box_lf:this.allImgsDom[index++],
+
+
+arrow_selected_cf : new Dom("arrow_selected_cf"),
+arrow_selected_rf : new Dom("arrow_selected_rf"),
+arrow_select_l : new Dom("arrow_select_l"),
+arrow_select_r : new Dom("arrow_select_r"),
+arrow_select_rf : new Dom("arrow_select_rf"),
+btn_delete : new Dom("btn_delete"),
+btn_record : new Dom("btn_record"),
+btn_reset : new Dom("btn_reset"),
+btn_start_experiment : new Dom("btn_start_experiment"),
+circle : new Dom("circle"),
+formula_cf : new Dom("formula_cf"),
+formula_rf : new Dom("formula_rf"),
+part_1_circuit : new Dom("part_1_circuit"),
+part_1_correct_text : new Dom("part_1_correct_text"),
+part_1_text_1 : new Dom("part_1_text_1"),
+part_1_text_2 : new Dom("part_1_text_2"),
+part_1_text_3 : new Dom("part_1_text_3"),
+part_2_box : new Dom("part_2_box"),
+part_2_circuit_left : new Dom("part_2_circuit_left"),
+part_2_circuit_right : new Dom("part_2_circuit_right"),
+part_2_graph : new Dom("part_2_graph"),
+part_2_text : new Dom("part_2_text"),
+part_3_a : new Dom("part_3_a"),
+part_3_circuit : new Dom("part_3_circuit"),
+part_3_full_graph : new Dom("part_3_full_graph"),
+part_3_graph_a : new Dom("part_3_graph_a"),
+part_3_graph_v1 : new Dom("part_3_graph_v1"),
+part_3_graph_v2 : new Dom("part_3_graph_v2"),
+part_3_graph_v3 : new Dom("part_3_graph_v3"),
+part_3_text : new Dom("part_3_text"),
+part_3_v_1 : new Dom("part_3_v_1"),
+part_3_v_2 : new Dom("part_3_v_2"),
+part_3_v_3 : new Dom("part_3_v_3"),
+part_4_btn_dc_output : new Dom("part_4_btn_dc_output"),
+part_4_circuit : new Dom("part_4_circuit"),
+part_4_performance_tab : new Dom("part_4_performance_tab"),
+part_5_circuit : new Dom("part_5_circuit"),
+part_5_text_1 : new Dom("part_5_text_1"),
+part_5_text_2 : new Dom("part_5_text_2"),
+part_5_text_3 : new Dom("part_5_text_3"),
+part_5_text_4 : new Dom("part_5_text_4"),
+part_5_value_boxes : new Dom("part_5_value_boxes"),
+part_5_versus_tab : new Dom("part_5_versus_tab"),
+table_load_l : new Dom("table_load_l"),
+table_load_r : new Dom("table_load_r"),
+table_ripple_factor : new Dom("table_ripple_factor"),
+tab_1 : new Dom("tab_1"),
+tab_2 : new Dom("tab_2"),
+tab_3 : new Dom("tab_3"),
+tab_4 : new Dom("tab_4"),
+value_box_cf : new Dom("value_box_cf"),
+value_box_lf : new Dom("value_box_lf"),
